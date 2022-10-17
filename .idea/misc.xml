@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/wayla/AndroidStudioProjects/Project2/app/src/main/res/layout/activity_display_message.xml" value="0.171225937183384" />
+        <entry key="..\:/Users/wayla/AndroidStudioProjects/Project2/app/src/main/res/layout/layout_main.xml" value="0.25" />
+        <entry key="..\:/Users/wayla/AndroidStudioProjects/Project2/app/src/main/res/layout/layout_postinvite.xml" value="0.171225937183384" />
+        <entry key="..\:/Users/wayla/AndroidStudioProjects/Project2/app/src/main/res/layout/layout_profile.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/wayla/AndroidStudioProjects/Project2/app/src/main/res/layout/layout_view_invites.xml" value="0.17806484295845998" />
       </map>
     </option>
   </component>
